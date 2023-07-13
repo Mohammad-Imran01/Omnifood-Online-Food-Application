@@ -16,7 +16,7 @@ Welcome to the Omnifood online food application repository! This repository cont
 
 ## Demo
 
-To see the live demo of the Omnifood application, click [here](https://your-demo-link.com).
+To see the live demo of the Omnifood application, click [here]([https://your-demo-link.com](https://omnifood-imran.netlify.app/)).
 
 ## Features
 
@@ -30,7 +30,8 @@ To see the live demo of the Omnifood application, click [here](https://your-demo
 1. Clone this repository to your local machine using the following command:
 
    ```shell
-   git clone https://github.com/your-username/omnifood.git
+   git clone https://github.com/Mohammad-Imran01/Omnifood-A-front-end-project
+   
 Navigate to the project directory:
 
 shell
@@ -45,8 +46,7 @@ Technologies
 HTML5
 CSS3
 JavaScript
-Contributing
-Contributions to the Omnifood online food application are welcome! If you'd like to contribute, please follow these steps:
+
 
 Fork the repository.
 Create a new branch for your feature or bug fix.
