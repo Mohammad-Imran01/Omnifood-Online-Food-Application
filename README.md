@@ -1,6 +1,6 @@
 # Omnifood Online Food Application
 
-![Omnifood](Screenshot (57).png)
+![Omnifood](omnifood-screenshot.png)
 
 Welcome to the Omnifood online food application repository! This repository contains the source code for the Omnifood application, a responsive and interactive web application that allows users to explore and order delicious meals online.
 
