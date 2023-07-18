@@ -16,7 +16,7 @@ Welcome to the Omnifood online food application repository! This repository cont
 
 ## Demo
 
-To see the live demo of the Omnifood application, click [here]([https://your-demo-link.com](https://omnifood-imran.netlify.app/)).
+To see the live demo of the Omnifood application, click [here]((https://omnifood-imran.netlify.app/)).
 
 ## Features
 
